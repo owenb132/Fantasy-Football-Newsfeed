@@ -1,0 +1,25 @@
+.rest_of_body{
+			width:700px;
+			
+			}
+.usrprofiledtls{
+		text-align:center;
+		height:70px;
+	  }
+	  .profile{
+		 width:171px;
+		 float:left;
+		 border:1px solid black;
+		 margin-left:auto;
+		}
+.profile a:link{color:blue;}
+.bordered{border:1px solid black;
+		  float:left;
+		  
+			}
+td {
+	border:1px solid black;
+	text-align:center;
+}
+td a:link{color:blue;}
+h1{font-size:5px; text-align:center; color:white; background-color:black}

@@ -66,7 +66,7 @@ $mail->SMTPSecure = 'ssl';
 
 $mail->SMTPAuth = true;
 $mail->Username = "purvilthemaster@gmail.com";
-$mail->Password = "kamdarrocks";
+$mail->Password = "xxxxxxxx";
 
 $mail->SingleTo = true; // if you want to send mail to the users individually so that no recipients can see that who has got the same email.
 
